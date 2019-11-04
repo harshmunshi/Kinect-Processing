@@ -3,4 +3,5 @@ Repo for my experiments with processing IDE and microsoft kinect V1
 
 ## Experiment 1: Circle Control
 
-![](GIFS/workingcirlce.gif)
+
+<img src="./GIFS/workingcirlce.gif" width="320" height="240">
