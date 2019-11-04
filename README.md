@@ -5,3 +5,9 @@ Repo for my experiments with processing IDE and microsoft kinect V1
 
 
 ![](./GIFS/circle.gif)
+
+
+## Experiment 2: Follow Me 3D Box
+
+
+![](./GIFS/2dproj.gif)
