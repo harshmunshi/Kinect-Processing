@@ -11,3 +11,8 @@ Repo for my experiments with processing IDE and microsoft kinect V1
 
 
 ![](./GIFS/2dproj.gif)
+
+
+## Face Tracking with objects in the 3D scene
+
+![](./GIFS/facetrack.gif)
